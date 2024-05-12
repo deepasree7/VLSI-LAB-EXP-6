@@ -123,13 +123,17 @@ Running the simulation:
 CMOS NAND GATE
 
 NAND SCHEMATIC
+
 ![image](https://github.com/Madhan0302/VLSI-LAB-EXP-6/assets/160517887/7eccb786-06d1-4edc-8b0f-727d1f1ae022)
 
+
 NAND TEST CELL VIEW
+
 ![image](https://github.com/Madhan0302/VLSI-LAB-EXP-6/assets/160517887/96c32b28-0060-40bf-9bce-e215442026a6)
 
  
 NAND SIMULATION WITH SPECTRA
+
 ![image](https://github.com/Madhan0302/VLSI-LAB-EXP-6/assets/160517887/ef51f28a-43e9-4b3c-9aa5-f02153a93954)
 
  
@@ -143,13 +147,17 @@ NAND SIMULATION WITH SPECTRA
 
 CMOS NOR GATE
 NOR SCHEMATIC
+
 ![image](https://github.com/Madhan0302/VLSI-LAB-EXP-6/assets/160517887/090388f6-e981-4d94-957e-137b13aa0789)
  
 
 NOR TEST CELL VIEW
+
 ![image](https://github.com/Madhan0302/VLSI-LAB-EXP-6/assets/160517887/03dafb60-7956-4601-be8e-c539280bdcc8)
 
+
 NOR SIMULATION WITH SPECTRA
+
 ![image](https://github.com/Madhan0302/VLSI-LAB-EXP-6/assets/160517887/23cc1bd8-8598-4aa1-ba7d-a3d86c0315f2)
 
  
