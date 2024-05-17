@@ -160,4 +160,8 @@ NOR SIMULATION WITH SPECTRA
 
 ![image](https://github.com/Madhan0302/VLSI-LAB-EXP-6/assets/160517887/23cc1bd8-8598-4aa1-ba7d-a3d86c0315f2)
 
- 
+
+
+### RESULT:
+        The Implementation of 2 input NOR gate using CMOS  is constructed and waveforms are verified.
+
